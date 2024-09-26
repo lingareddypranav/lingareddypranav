@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello World! I'm Pranav 👋 ✌️
 
-<!--
-**lingareddypranav/lingareddypranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+public class Pranav {
+private int age = 19;
+private String[] celebrity_lookalikes = new String[] {"Brad Pitt", "Ryan Gosling", "Curious George");
+  public void learningNewTech() {
+    while(true) {
+      System.out.println("Learning new {insert awesome new tool/language/framework}");
+    }
+    // ERROR: Infinite loop detected! Pranav can't stop learning! 😅
+  }
+}
+```
+### 💻 Career Center:
+- Computer Science and Business Administration Major at The University of Southern California
+- Artificial Intelligence Applications Minor
+- Looking for internship roles where I can contribute and learn as much as possible!
+### 🎯 Current Focus:
+- Self-learning the fundamentals of machine learning 🤖
+- Solving challenging problems on LeetCode 💡
+- Working on training my own convolutional neural network 🧠 (for a project the world will see soon)
+### 🏆 Experience:
+- Self-taught full-stack developer for 2 years
+- Helping the USC Rocket Propulsion Lab launch Aftershock II, set to break amateur rocketry records for altitude! 🚀
+- Learning the intracicies of data wrangling and modeling in Advanced Business Statistics
+  
