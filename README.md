@@ -23,5 +23,6 @@ private String[] celebrity_lookalikes = new String[] {"Brad Pitt", "Ryan Gosling
 ### 🏆 Experience:
 - Self-taught full-stack developer for 2 years
 - Helping the USC Rocket Propulsion Lab launch Aftershock II, set to break amateur rocketry records for altitude! 🚀
+- Teaching high schoolers how to ace AP Computer Science 🧑‍🏫
 - Learning the intracicies of data wrangling and modeling in Advanced Business Statistics
   
