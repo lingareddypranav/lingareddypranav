@@ -14,7 +14,7 @@ private String[] celebrity_lookalikes = new String[] {"Brad Pitt", "Ryan Gosling
 ```
 ### 💻 Career Center:
 - Computer Science and Business Administration Major at The University of Southern California
-- Artificial Intelligence Applications Minor
+- Minor in Artificial Intelligence Applications 
 - Looking for internship roles where I can contribute and learn as much as possible!
 ### 🎯 Current Focus:
 - Self-learning the fundamentals of machine learning 🤖
